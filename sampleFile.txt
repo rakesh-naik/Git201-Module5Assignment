@@ -1,0 +1,6 @@
+Master branch file
+
+s content is introduced from mycodebranch. 
+A new line added from branch.
+
+Adding content from master branch.
